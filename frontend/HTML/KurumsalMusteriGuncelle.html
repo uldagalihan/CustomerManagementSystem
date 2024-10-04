@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kurumsal Müşteri Güncelleme</title>
+    <link rel="stylesheet" href="/CSS/KurumsalMusteriGuncelle.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Kurumsal Müşteri Güncelleme</h1>
+            <div class="button-group">
+                <button id="temizleBtn" class="btn">Temizle</button>
+                <button id="guncelleBtn" class="btn">Güncelle</button>
+                <button id="musteriIptalbtn" class="btn">Müşteri İptal</button>
+            </div>
+        </div>
+        <div class="tab-control">
+            <div class="tab active" id="ozlukBilgileriTab">Özlük Bilgileri</div>
+            <div class="tab" id="iletisimTab">İletişim</div>
+        </div>
+
+        <div class="tab-content active" id="ozlukBilgileriContent">
+
+            <div class="form-group">
+                <label for="musteriNo">Müşteri No:</label>
+                <input type="text" id="musteriNo" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="vergiKimlikNo">Vergi Kimlik Numarası:</label>
+                <input type="text" id="vergiKimlikNo" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="unvan">Unvan:</label>
+                <input type="text" id="unvan" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="calisanSayisi">Çalışan Sayısı:</label>
+                <input type="text" id="calisanSayisi" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="nominalSermaye">Nominal Sermaye:</label>
+                <input type="text" id="nominalSermaye" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="firmaKurulusTarihi">Firma Kuruluş Tarihi:</label>
+                <input type="date" id="firmaKurulusTarihi" class="tbox">
+            </div>
+          
+            <div class="form-group">
+                <label for="musteriTuru">Müşteri Türü:</label>
+                <select id="musteriTuru" class="selectbox">
+                    <option value=0>Anonim Şirket</option>
+                    <option value=1>Limited Şirket</option>
+                    <option value=2>Koperatif</option>
+                    <option value=3>Dernek</option>
+                    <option value=4>Vakıf</option>
+                    <option value=5>Diğer</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="tab-content" id="iletisimContent">
+            <div class="form-group">
+                <label for="adres">Adres Bilgisi:</label>
+                <input type="text" id="adres" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="eadres">E-Adres Bilgisi:</label>
+                <input type="text" id="eadres" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="alanKodu">Alan Kodu:</label>
+                <input type="text" id="alanKodu" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="telNo">Tel No:</label>
+                <input type="text" id="telNo" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="adresTipi">Adres Tipi:</label>
+                <select id="adresTipi" class="selectbox">
+                    <option value=0>Ev</option>
+                    <option value=1>İş</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="eadresTipi">E-Adres Tipi:</label>
+                <select id="eadresTipi" class="selectbox">
+                    <option value=0>Kişisel</option>
+                    <option value=1>İş</option>
+                    <option value=2>Okul</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="telefonTipi">Telefon Tipi:</label>
+                <select id="telefonTipi" class="selectbox">
+                    <option value=0>Ev</option>
+                    <option value=1>İş</option>
+                    <option value=2>Kişisel</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="hatTipi">Hat Tipi:</label>
+                <select id="hatTipi" class="selectbox">
+                    <option value=0>Mobil</option>
+                    <option value=1>Sabit</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <script src="/JavaScript/KurumsalMusteriGuncelle.js"></script>
+</body>
+</html>

@@ -1,0 +1,214 @@
+[
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "BMusteriTumBilgileriEkle",
+    "RelativePath": "api/BireyselMusteri/ekle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EntityLayer.CommonEntityTumMusteriler",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "BMusteriTumBilgileriGuncelle",
+    "RelativePath": "api/BireyselMusteri/guncelle",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EntityLayer.CommonEntityTumMusteriler",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "KNOBireyselMusteriGetir",
+    "RelativePath": "api/BireyselMusteri/KNOmusteriGetir/{kimlikNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kimlikNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "BireyselMusteriGetir",
+    "RelativePath": "api/BireyselMusteri/musteriGetir/{musteriNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musteriNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "BMusteriNoGetir",
+    "RelativePath": "api/BireyselMusteri/musteriNoGetir/{tcKimlikNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tcKimlikNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "BMusteriPasifeCek",
+    "RelativePath": "api/BireyselMusteri/sil/{musteriNo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musteriNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.BireyselMusteriController",
+    "Method": "TumBireyselMusteriGetir",
+    "RelativePath": "api/BireyselMusteri/tumMusterileriGetir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KMusteriTumBilgileriEkle",
+    "RelativePath": "api/KurumsalMusteri/ekle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EntityLayer.CommonEntityTumMusteriler",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KMusteriTumBilgileriGuncelle",
+    "RelativePath": "api/KurumsalMusteri/guncelle",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "EntityLayer.CommonEntityTumMusteriler",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KNOKurumsalMusteriGetir",
+    "RelativePath": "api/KurumsalMusteri/KNOmusteriGetir/{kimlikNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kimlikNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KurumsalMusteriGetir",
+    "RelativePath": "api/KurumsalMusteri/musteriGetir/{musteriNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musteriNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KMusteriNoGetir",
+    "RelativePath": "api/KurumsalMusteri/musteriNoGetir/{vergiKimlikNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vergiKimlikNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "KMusteriPasifeCek",
+    "RelativePath": "api/KurumsalMusteri/sil/{musteriNo}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "musteriNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WallLayer.Controllers.KurumsalMusteriController",
+    "Method": "TumKurumsalMusteriGetir",
+    "RelativePath": "api/KurumsalMusteri/tumMusterileriGetir",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

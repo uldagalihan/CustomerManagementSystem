@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bireysel Müşteri Tanımlama</title>
+    <link rel="stylesheet" href="/CSS/BireyselMusteriTanimla.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Bireysel Müşteri Tanımlama</h1>
+            <div class="button-group">
+                <button id="temizleBtn" class="btn">Temizle</button>
+                <button id="kaydetBtn" class="btn">Kaydet</button>
+            </div>
+        </div>
+        <div class="tab-control">
+            <div class="tab active" id="ozlukBilgileriTab">Özlük Bilgileri</div>
+            <div class="tab" id="iletisimTab">İletişim</div>
+        </div>
+
+        <div class="tab-content active" id="ozlukBilgileriContent">
+            <div class="form-group">
+                <label for="tcKimlikNo">TC Kimlik Numarası:</label>
+                <input type="text" id="tcKimlikNo" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="ad">Ad:</label>
+                <input type="text" id="ad" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="soyad">Soyad:</label>
+                <input type="text" id="soyad" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="babaAdi">Baba Adı:</label>
+                <input type="text" id="babaAdi" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="anneAdi">Anne Adı:</label>
+                <input type="text" id="anneAdi" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="dogumTarihi">Doğum Tarihi:</label>
+                <input type="date" id="dogumTarihi" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="musteriNo">Müşteri No:</label>
+                <input type="text" id="musteriNo" class="tbox" readonly>
+            </div>
+            <div class="form-group">
+                <label for="sahisFirmaDurum">Şahıs/Firma Durumu:</label>
+                <select id="sahisFirmaDurum" class="selectbox">
+                    <option value="0">Şahıs Firma Değil</option>
+                    <option value="1">Şahıs Firma</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="kktcKimlikNo">KKTC Kimlik No:</label>
+                <input type="text" id="kktcKimlikNo" class="tbox">
+            </div>
+        </div>
+
+        <div class="tab-content" id="iletisimContent">
+            <div class="form-group">
+                <label for="adres">Adres Bilgisi:</label>
+                <input type="text" id="adres" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="eadres">E-Adres Bilgisi:</label>
+                <input type="text" id="eadres" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="alanKodu">Alan Kodu:</label>
+                <input type="text" id="alanKodu" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="telNo">Tel No:</label>
+                <input type="text" id="telNo" class="tbox">
+            </div>
+            <div class="form-group">
+                <label for="adresTipi">Adres Tipi:</label>
+                <select id="adresTipi" class="selectbox">
+                    <option value=0>Ev</option>
+                    <option value=1>İş</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="eadresTipi">E-Adres Tipi:</label>
+                <select id="eadresTipi" class="selectbox">
+                    <option value=0>Kişisel</option>
+                    <option value=1>Kurumsal</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="telefonTipi">Telefon Tipi:</label>
+                <select id="telefonTipi" class="selectbox">
+                    <option value=0>Ev</option>
+                    <option value=1>İş</option>
+                    <option value=2>Kişisel</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="hatTipi">Hat Tipi:</label>
+                <select id="hatTipi" class="selectbox">
+                    <option value=0>Mobil</option>
+                    <option value=1>Sabit</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <script src="/JavaScript/BireyselMusteriTanimla.js"></script>
+</body>
+</html>
