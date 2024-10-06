@@ -47,4 +47,6 @@ This project is a comprehensive customer management system designed for banks, s
 
 ## Screenshots
 ![Main Form](images/screenshots/mainForm.png)
+![Individual Customer Listing](images/screenshots/individualCustomerList.png)
+![Corporate Customer Listing](images/screenshots/corporateCustomerList.png)
 
