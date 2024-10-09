@@ -48,6 +48,7 @@ Bu proje, bireysel ve kurumsal müşterileri destekleyen kapsamlı bir müşteri
 
 ## Screenshots
 ![Main Form](images/screenshots/mainForm.png)
+![Add Corporate Customer](images/screenshots/addCorporateCustomer.png)
 ![Individual Customer Listing](images/screenshots/individualCustomerList.png)
 
 
