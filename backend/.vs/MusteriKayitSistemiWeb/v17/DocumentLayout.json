@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\musterikayitsistemi\\kurumsalmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|solutionrelative:musterikayitsistemi\\kurumsalmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\musterikayitsistemi\\bireyselmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|solutionrelative:musterikayitsistemi\\bireyselmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|solutionrelative:walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E24F664-EB8B-4403-B81C-D20798DE8624}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\dataaccesslayer\\dalbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E24F664-EB8B-4403-B81C-D20798DE8624}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\musterikayitsistemi\\kurumsalmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|solutionrelative:musterikayitsistemi\\kurumsalmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\musterikayitsistemi\\bireyselmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295D5A9C-7C15-49BD-B702-908D3E5C7766}|MusteriKayitSistemi\\PresentationLayer.csproj|solutionrelative:musterikayitsistemi\\bireyselmusteriguncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|solutionrelative:walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "KurumsalMusteriGuncelleme.cs",
               "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\MusteriKayitSistemi\\KurumsalMusteriGuncelleme.cs",
               "RelativeDocumentMoniker": "MusteriKayitSistemi\\KurumsalMusteriGuncelleme.cs",
@@ -50,50 +50,49 @@
               "RelativeToolTip": "MusteriKayitSistemi\\KurumsalMusteriGuncelleme.cs",
               "ViewState": "AgIAAMgAAAAAAAAAAAAwwNgAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:07:59.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:07:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BireyselMusteriGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
+              "RelativeDocumentMoniker": "MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
+              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
+              "RelativeToolTip": "MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAswPgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:07:50.329Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BireyselMusteriGuncelleme.cs",
-              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
-              "RelativeDocumentMoniker": "MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs",
-              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs*",
-              "RelativeToolTip": "MusteriKayitSistemi\\BireyselMusteriGuncelleme.cs*",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAswPgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:07:50.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "BLBireyselMusteri.cs",
               "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BLBireyselMusteri.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BLBireyselMusteri.cs",
               "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BLBireyselMusteri.cs",
               "RelativeToolTip": "BusinessLayer\\BLBireyselMusteri.cs",
-              "ViewState": "AgIAANUAAAAAAAAAAAAvwKIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAvwKIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:38:37.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "DALBireyselMusteri.cs",
               "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\DataAccessLayer\\DALBireyselMusteri.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\DALBireyselMusteri.cs",
               "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\DataAccessLayer\\DALBireyselMusteri.cs",
               "RelativeToolTip": "DataAccessLayer\\DALBireyselMusteri.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:38:26.27Z"
+              "WhenOpened": "2024-10-04T10:38:26.27Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "EntityBireyselMusteri.cs",
               "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\EntityLayer\\EntityBireyselMusteri.cs",
               "RelativeDocumentMoniker": "EntityLayer\\EntityBireyselMusteri.cs",
@@ -101,11 +100,12 @@
               "RelativeToolTip": "EntityLayer\\EntityBireyselMusteri.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:38:15.22Z"
+              "WhenOpened": "2024-10-04T10:38:15.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BireyselMusteriController.cs",
               "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\Controllers\\BireyselMusteriController.cs",
               "RelativeDocumentMoniker": "WallLayer\\Controllers\\BireyselMusteriController.cs",
