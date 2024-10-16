@@ -42,3 +42,14 @@ C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\BusinessLayer\obj\Debug\Busi
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\BusinessLayer\obj\Debug\BusinessLayer.pdb

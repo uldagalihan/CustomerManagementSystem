@@ -214,7 +214,7 @@ namespace MusteriKayitSistemi
                 EntityKurumsalMusteri km = new EntityKurumsalMusteri();
                 km.musteriNo = int.Parse(tboxOzlukMusteriNo.Text);
 
-                BLKurumsalMusteri.KMusteriPasifeCek(km);
+                BLKurumsalMusteri.KMusteriPasifeCek(km.musteriNo);
                 MessageBox.Show("Müşteri Başarıyla Silindi!");
             }
             catch (Exception ex)

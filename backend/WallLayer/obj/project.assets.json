@@ -943,11 +943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\WallLayer\\WallLayer.csproj",
+      "projectUniqueName": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\WallLayer.csproj",
       "projectName": "WallLayer",
-      "projectPath": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\WallLayer\\WallLayer.csproj",
+      "projectPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\WallLayer.csproj",
       "packagesPath": "C:\\Users\\alihan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\WallLayer\\obj\\",
+      "outputPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alihan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -965,11 +965,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

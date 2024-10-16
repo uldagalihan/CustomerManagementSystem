@@ -246,7 +246,7 @@ namespace MusteriKayitSistemi
             EntityBireyselMusteri bm = new EntityBireyselMusteri();
             bm.musteriNo = int.Parse(tboxOzlukMusteriNo.Text);
 
-            BLBireyselMusteri.BMusteriPasifeCek(bm);
+            BLBireyselMusteri.BMusteriPasifeCek(bm.musteriNo);
             MessageBox.Show("Müşteri Başarıyla Silindi!");
         }
 

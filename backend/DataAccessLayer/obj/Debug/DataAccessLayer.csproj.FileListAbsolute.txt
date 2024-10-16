@@ -34,3 +34,12 @@ C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\DataAccessLayer\obj\Debug\Da
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

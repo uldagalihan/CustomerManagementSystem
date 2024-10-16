@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WallLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec72aeaeb677a726ad90ccfdd19e7b8678288235")]
 [assembly: System.Reflection.AssemblyProductAttribute("WallLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WallLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,3 +22,9 @@ C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\EntityLayer\obj\Debug\Entity
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\EntityLayer\obj\Debug\EntityLayer.pdb
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\EntityLayer\bin\Debug\EntityLayer.dll
 C:\Users\alihan\source\repos\MusteriKayitSistemiWeb\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\alihan\Documents\GitHub\CustomerManagementSystem\backend\EntityLayer\obj\Debug\EntityLayer.pdb

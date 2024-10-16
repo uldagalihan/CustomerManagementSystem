@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|c:\\users\\alihan\\source\\repos\\musterikayitsistemiweb\\walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|solutionrelative:walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alihan\\source\\repos\\musterikayitsistemiweb\\businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44A0F19-FE25-4486-977B-D8711EE4B6D4}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\blbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E24F664-EB8B-4403-B81C-D20798DE8624}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alihan\\source\\repos\\musterikayitsistemiweb\\dataaccesslayer\\dalbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|c:\\users\\alihan\\documents\\github\\customermanagementsystem\\backend\\walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA99DFE-0B8C-4A28-94A2-DBA8285DFB66}|WallLayer\\WallLayer.csproj|solutionrelative:walllayer\\controllers\\bireyselmustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E24F664-EB8B-4403-B81C-D20798DE8624}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\dataaccesslayer\\dalbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E24F664-EB8B-4403-B81C-D20798DE8624}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dalbireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|c:\\users\\alihan\\source\\repos\\musterikayitsistemiweb\\entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CAB3130-EE64-46F9-A614-88365CBFBE4C}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\entitybireyselmusteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,13 +34,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BLBireyselMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\BusinessLayer\\BLBireyselMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BLBireyselMusteri.cs",
               "RelativeDocumentMoniker": "BusinessLayer\\BLBireyselMusteri.cs",
-              "ToolTip": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\BusinessLayer\\BLBireyselMusteri.cs",
+              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\BusinessLayer\\BLBireyselMusteri.cs",
               "RelativeToolTip": "BusinessLayer\\BLBireyselMusteri.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAUwLYAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAANUAAAAAAAAAAAAvwKIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-04T10:38:37.911Z",
               "EditorCaption": ""
@@ -49,40 +49,37 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "DALBireyselMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\DataAccessLayer\\DALBireyselMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\DataAccessLayer\\DALBireyselMusteri.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\DALBireyselMusteri.cs",
-              "ToolTip": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\DataAccessLayer\\DALBireyselMusteri.cs",
+              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\DataAccessLayer\\DALBireyselMusteri.cs",
               "RelativeToolTip": "DataAccessLayer\\DALBireyselMusteri.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:38:26.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:38:26.27Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EntityBireyselMusteri.cs",
-              "DocumentMoniker": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\EntityLayer\\EntityBireyselMusteri.cs",
+              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\EntityLayer\\EntityBireyselMusteri.cs",
               "RelativeDocumentMoniker": "EntityLayer\\EntityBireyselMusteri.cs",
-              "ToolTip": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\EntityLayer\\EntityBireyselMusteri.cs",
+              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\EntityLayer\\EntityBireyselMusteri.cs",
               "RelativeToolTip": "EntityLayer\\EntityBireyselMusteri.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:38:15.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:38:15.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BireyselMusteriController.cs",
-              "DocumentMoniker": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\WallLayer\\Controllers\\BireyselMusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\Controllers\\BireyselMusteriController.cs",
               "RelativeDocumentMoniker": "WallLayer\\Controllers\\BireyselMusteriController.cs",
-              "ToolTip": "C:\\Users\\alihan\\source\\repos\\MusteriKayitSistemiWeb\\WallLayer\\Controllers\\BireyselMusteriController.cs",
+              "ToolTip": "C:\\Users\\alihan\\Documents\\GitHub\\CustomerManagementSystem\\backend\\WallLayer\\Controllers\\BireyselMusteriController.cs",
               "RelativeToolTip": "WallLayer\\Controllers\\BireyselMusteriController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:37:54.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:37:54.381Z"
             }
           ]
         }
